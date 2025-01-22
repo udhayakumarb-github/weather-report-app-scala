@@ -1,4 +1,4 @@
-/.bsp/
+.bsp/
 target/
 
 # Scala-specific ignores
@@ -16,6 +16,7 @@ tmp/
 .dist/
 
 # SBT
+.bsp/
 .cache/
 lib_managed/
 src_managed/
